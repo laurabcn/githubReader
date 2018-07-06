@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e330f213-17cb-4a12-ba03-377659aee528" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/colvin$GetFilesFromGitTest_testExecute.xml" NAME="GetFilesFromGitTest.testExecute Coverage Results" MODIFIED="1529747911245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="colvin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GitHubReaderCommand.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/src/Infrastructure/Command/GitHubReaderCommand.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="35" column="47" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetFilesFromGit.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/src/Infrastructure/FilesTreeReader/GitFilesReader/GetFilesFromGit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GithubFilesTreeReader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/src/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="24" column="32" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="32" />
+              <folding>
+                <element signature="e#69#105#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GithubFilesTreeReaderTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/tests/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReaderTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilesCountServiceTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/tests/Domain/FilesCountService/FilesCountServiceTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../githubReader/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilesCountService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/src/Domain/FilesCountService/FilesCountService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="File.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/src/Domain/FilesTreeReader/File.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="5" selection-start-line="4" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilesTreeReader.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/src/Domain/FilesTreeReader/FilesTreeReader.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordOccurrence.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../githubReader/src/Domain/FilesTreeReader/WordOccurrence.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new C</find>
+      <find>$client</find>
+      <find>GithubFilesTreeReader</find>
+      <find>GithubFilesTreeReader&quot;</find>
+      <find>count</find>
+      <find>',</find>
+      <find>[&quot;</find>
+      <find>var</find>
+      <find>var_</find>
+      <find>var_dump</find>
+      <find>usort</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docker/php-fpm/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/Command/StatisticsCommand.php" />
+        <option value="$PROJECT_DIR$/src/Command/GitHubReader.php" />
+        <option value="$PROJECT_DIR$/src/Domain/filesTreeReader.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/GithubFilesGetFiles.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/GithubFilesGetLastCommit.php" />
+        <option value="$PROJECT_DIR$/src/Application/GithubFilesGetLastCommit.php" />
+        <option value="$PROJECT_DIR$/var/cache/dev/ContainerFCulGvJ/getGitHubReaderCommandService.php" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesTreeReader.php" />
+        <option value="$PROJECT_DIR$/src/Application/GetLastCommit.php" />
+        <option value="$PROJECT_DIR$/src/Application/GetLastCommitRequest.php" />
+        <option value="$PROJECT_DIR$/src/Application/LastCommit/GetLastCommitRequest.php" />
+        <option value="$PROJECT_DIR$/src/Application/LastCommit/GetLastCommit.php" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesTreeReader/FilesTreeReaderInterface.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/GithubFilesTreeReader.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/GetWordsFromFiles.php" />
+        <option value="$PROJECT_DIR$/src/Command/StatisticsCommandV2.php" />
+        <option value="$PROJECT_DIR$/src/Command/GitHubReaderCommand.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/GetLastCommit.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Command/StatisticsCommand.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Command/GitHubReaderCommandTest.php" />
+        <option value="$PROJECT_DIR$/test/Infrastructure/GitHubReaderCommandTest.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/GetFilesFromGit.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/FilesTreeReader/FilesCountService.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Cli/StatisticsCommand.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Cli/StatisticsCommandV2.php" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesCountService.php" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesTreeReader/File.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Cli/GitHubReaderCommand.php" />
+        <option value="$PROJECT_DIR$/config/services.yaml" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesTreeReader/FilesTreeReader.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Command/StatisticsCommandV2.php" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesTreeReader/FileOcurrence.php" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesTreeReader/FileOccurrence.php" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesTreeReader/WordOccurrence.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/Command/GitHubReaderCommand.php" />
+        <option value="$PROJECT_DIR$/src/Domain/FilesCountService/FilesCountService.php" />
+        <option value="$PROJECT_DIR$/tests/Infrastructure/GitHubReaderCommandTest.php" />
+        <option value="$PROJECT_DIR$/tests/Infrastructure/FilesTreeReader/GitFilesReader/GetFilesFromGitTest.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/FilesTreeReader/GitFilesReader/FakeGetFilesFromGit.php" />
+        <option value="$PROJECT_DIR$/tests/Tools/DummyHttpClient.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReader.php" />
+        <option value="$PROJECT_DIR$/tests/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReaderTest.php" />
+        <option value="$PROJECT_DIR$/tests/.gitignore" />
+        <option value="$PROJECT_DIR$/tests/Domain/FilesCountService/FilesCountServiceTest.php" />
+        <option value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" />
+        <option value="$PROJECT_DIR$/src/Infrastructure/FilesTreeReader/GitFilesReader/GetFilesFromGit.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="colvin_php-fpm:latest" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="colvin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="githubReader" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Gi&#9;FILE&#9;file:///Users/laura.riera/Downloads/colvin/src/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReader.php&#10;ser&#9;FILE&#9;file:///Users/laura.riera/Downloads/colvin/config/services.yaml&#10;ClientInterface&#9;null&#9;null&#10;Cli&#9;FILE&#9;file:///Users/laura.riera/Downloads/colvin/vendor/guzzlehttp/guzzle/src/Client.php&#10;composer.js&#9;FILE&#9;file:///Users/laura.riera/Downloads/colvin/composer.json" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.7.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Domain/FilesTreeReader" />
+      <recent name="$PROJECT_DIR$/src/Command" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Domain/CountFilesService" />
+      <recent name="$PROJECT_DIR$/src/Domain" />
+      <recent name="$PROJECT_DIR$/src/Infrastructure/FilesTreeReader" />
+      <recent name="$PROJECT_DIR$/src/Infrastructure/Cli" />
+      <recent name="$PROJECT_DIR$/src/Infrastructure/GitFilesReader" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.GithubFilesTreeReaderTest.testRetrieveFiles">
+    <configuration name="FakeGetFilesFromGitTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Infrastructure\FilesTreeReader\GitFilesReader\FakeGetFilesFromGitTest" file="$PROJECT_DIR$/../githubReader/tests/Infrastructure/FilesTreeReader/GitFilesReader/FakeGetFilesFromGitTest.php" scope="Class" />
+    </configuration>
+    <configuration name="FakeGetFilesFromGitTest.testExecute" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Infrastructure\FilesTreeReader\GitFilesReader\FakeGetFilesFromGitTest" file="$PROJECT_DIR$/../githubReader/tests/Infrastructure/FilesTreeReader/GitFilesReader/FakeGetFilesFromGitTest.php" method="testExecute" scope="Method" />
+    </configuration>
+    <configuration name="GetFilesFromGitTest.testExecute" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="FakeGetFilesFromGit" file="$PROJECT_DIR$/../githubReader/tests/Infrastructure/FilesTreeReader/GitFilesReader/FakeGetFilesFromGitTest.php" method="testExecute" />
+    </configuration>
+    <configuration name="GithubFilesTreeReaderTest.testRetrieveFiles" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Infrastructure\FilesTreeReader\GitFilesReader\GithubFilesTreeReaderTest" file="$PROJECT_DIR$/../githubReader/tests/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReaderTest.php" method="testRetrieveFiles" scope="Method" />
+    </configuration>
+    <configuration name="GithubFilesTreeReaderTest.testReturnFilesWitOneLevelDeep" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Infrastructure\FilesTreeReader\GitFilesReader\GithubFilesTreeReaderTest" file="$PROJECT_DIR$/../githubReader/tests/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReaderTest.php" method="testReturnFilesWitOneLevelDeep" scope="Method" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.GetFilesFromGitTest.testExecute" />
+      <item itemvalue="PHPUnit.FakeGetFilesFromGitTest" />
+      <item itemvalue="PHPUnit.FakeGetFilesFromGitTest.testExecute" />
+      <item itemvalue="PHPUnit.GithubFilesTreeReaderTest.testReturnFilesWitOneLevelDeep" />
+      <item itemvalue="PHPUnit.GithubFilesTreeReaderTest.testRetrieveFiles" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.GithubFilesTreeReaderTest.testRetrieveFiles" />
+        <item itemvalue="PHPUnit.GithubFilesTreeReaderTest.testReturnFilesWitOneLevelDeep" />
+        <item itemvalue="PHPUnit.FakeGetFilesFromGitTest.testExecute" />
+        <item itemvalue="PHPUnit.FakeGetFilesFromGitTest" />
+        <item itemvalue="PHPUnit.GetFilesFromGitTest.testExecute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e330f213-17cb-4a12-ba03-377659aee528" name="Default" comment="" />
+      <created>1529347034845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529347034845</updated>
+      <workItem from="1529347037140" duration="3759000" />
+      <workItem from="1529354373447" duration="3996000" />
+      <workItem from="1529391869617" duration="1275000" />
+      <workItem from="1529433101148" duration="11336000" />
+      <workItem from="1529477077367" duration="5235000" />
+      <workItem from="1529509989713" duration="19014000" />
+      <workItem from="1529591915520" duration="15734000" />
+      <workItem from="1529671205062" duration="30935000" />
+      <workItem from="1530256300083" duration="622000" />
+      <workItem from="1530290992903" duration="2537000" />
+      <workItem from="1530441165175" duration="2077000" />
+      <workItem from="1530525797733" duration="699000" />
+      <workItem from="1530625274265" duration="2276000" />
+      <workItem from="1530686011167" duration="9000" />
+      <workItem from="1530868862221" duration="940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GithubFilesTreeReaderTest_testReturnFilesWitOneLevelDeep - 2018.06.23 at 13h 18m 49s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testReturnFilesWitOneLevelDeep" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testReturnFilesWitOneLevelDeep - 2018.06.23 at 13h 19m 07s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testReturnFilesWitOneLevelDeep" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testReturnFilesWitOneLevelDeep - 2018.06.23 at 13h 19m 42s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testReturnFilesWitOneLevelDeep" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testReturnFilesWitOneLevelDeep - 2018.06.23 at 13h 19m 58s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testReturnFilesWitOneLevelDeep" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testRetrieveFiles - 2018.06.23 at 13h 22m 51s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testRetrieveFiles" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testRetrieveFiles - 2018.06.23 at 13h 28m 16s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testRetrieveFiles" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testRetrieveFiles - 2018.06.23 at 13h 29m 04s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testRetrieveFiles" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testRetrieveFiles - 2018.06.23 at 13h 32m 20s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testRetrieveFiles" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testRetrieveFiles - 2018.06.23 at 13h 32m 52s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testRetrieveFiles" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="GithubFilesTreeReaderTest_testRetrieveFiles - 2018.06.23 at 13h 33m 01s.xml">
+      <configuration name="GithubFilesTreeReaderTest.testRetrieveFiles" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="100444000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4003044" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.29832572" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4919355" visible="true" weight="0.2641357" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.32876712" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5829528" />
+      <window_info id="Structure" order="1" sideWeight="0.50549453" side_tool="true" weight="0.26979" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.42313546" />
+      <window_info id="Favorites" order="2" sideWeight="0.51004016" side_tool="true" weight="0.2714055" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49579832" visible="true" weight="0.22778675" />
+      <window_info id="Structure" order="1" sideWeight="0.50549453" side_tool="true" weight="0.26979" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.03805175" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" sideWeight="0.5042017" side_tool="true" weight="0.4006462" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../githubReader/tests/Infrastructure/FilesTreeReader/GitFilesReader/FakeGetFilesFromGitTest.php</url>
+          <line>33</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../githubReader/config/services.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="52" selection-start-line="39" selection-start-column="4" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/src/Infrastructure/Command/GitHubReaderCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Command/StatisticsCommand.php" />
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker/php-fpm/install_composer.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker/nginx/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker/php-fpm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Command/StatisticsCommand.php" />
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker/nginx/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker/php-fpm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker/nginx/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker/php-fpm/install_composer.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker/php-fpm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/README.md" />
+    <entry file="file://$PROJECT_DIR$/../githubReader/bin/console">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/ClientInterface.php" />
+    <entry file="file://$PROJECT_DIR$/var/cache/dev/ContainerFCulGvJ/getGitHubReaderCommandService.php" />
+    <entry file="file://$PROJECT_DIR$/src/Application/LastCommit/GetLastCommitRequest.php" />
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/GetWordsFromFiles.php" />
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/GithubFilesGetFiles.php" />
+    <entry file="file://$PROJECT_DIR$/src/Application/GithubFilesGetLastCommit.php" />
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/GetLastCommit.php" />
+    <entry file="file://$PROJECT_DIR$/../githubReader/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Domain/FilesCount.php" />
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Command/StatisticsCommand.php" />
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Command/StatisticsCommandV2.php" />
+    <entry file="file://$PROJECT_DIR$/../githubReader/phpunit.xml.dist">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/HandlerStack.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/psr7/src/Response.php" />
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/FilesTreeReader/GitFilesReader/FakeGetFilesFromGit.php" />
+    <entry file="file://$PROJECT_DIR$/tests/Infrastructure/FilesTreeReader/GitFilesReader/FakeGetFilesFromGitTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/Infrastructure/GitHubReaderCommandTest.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" />
+    <entry file="file://$PROJECT_DIR$/../githubReader/tests/Tools/DummyHttpClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phar-io/manifest/README.md" />
+    <entry file="file://$PROJECT_DIR$/vendor/guzzlehttp/guzzle/src/Client.php" />
+    <entry file="file://$PROJECT_DIR$/../githubReader/config/services.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="52" selection-start-line="39" selection-start-column="4" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/tests/Domain/FilesCountService/FilesCountServiceTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/tests/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReaderTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="56" column="29" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/src/Domain/FilesCountService/FilesCountService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/src/Domain/FilesTreeReader/FilesTreeReader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/src/Domain/FilesTreeReader/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/src/Domain/FilesTreeReader/WordOccurrence.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/src/Infrastructure/Command/GitHubReaderCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="35" column="47" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/src/Infrastructure/FilesTreeReader/GitFilesReader/GithubFilesTreeReader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="32" />
+          <folding>
+            <element signature="e#69#105#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/src/Infrastructure/FilesTreeReader/GitFilesReader/GetFilesFromGit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../githubReader/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

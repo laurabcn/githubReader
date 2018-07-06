@@ -1,0 +1,27 @@
+version: "3.1"
+services:
+  php-fpm:
+        build: docker/php-fpm
+        container_name: githubReader-php-fpm
+        working_dir: /var/www/githubReader
+        volumes:
+          - ./:/var/www/githubReader
+          - ~/.ssh:/home/wwwagent/.ssh
+
+  webserver:
+      image: nginx:alpine
+      container_name: githubReader-webserver
+      working_dir: /var/www/githubReader
+      ports:
+          - "8443:443"
+      links:
+          - php-fpm
+      volumes:
+          -  ./:/var/www/githubReader
+
+  colvin:
+      image: abh1nav/dockerui
+      volumes:
+        - /var/run/docker.sock:/var/run/docker.sock
+      links:
+        - webserver
